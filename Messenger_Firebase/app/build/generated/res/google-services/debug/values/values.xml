@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">186121931053-qsv0f31hvuottdmlumsvnilcetu2p234.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://messengerfirebase-3ffea.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">186121931053</string>
+    <string name="google_api_key" translatable="false">AIzaSyDOdZ67FmSowwKvF8FOYoTiEDUs25lU8ZQ</string>
+    <string name="google_app_id" translatable="false">1:186121931053:android:b1e3b3c35b736b72</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDOdZ67FmSowwKvF8FOYoTiEDUs25lU8ZQ</string>
+    <string name="google_storage_bucket" translatable="false">messengerfirebase-3ffea.appspot.com</string>
+    <string name="project_id" translatable="false">messengerfirebase-3ffea</string>
+</resources>
